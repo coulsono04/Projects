@@ -6,7 +6,7 @@ namespace ConsoleCreatures
   {
     static void Main()
     {
-      // This program will display and ASCII art creatures
+      // This program will display ASCII art creatures
       Console.WriteLine(" .-.");    
       Console.WriteLine("(o o)");
       Console.WriteLine("| O |");
