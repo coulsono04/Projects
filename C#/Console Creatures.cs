@@ -14,6 +14,7 @@ namespace ConsoleCreatures
       Console.WriteLine("'~~~'");
       Console.WriteLine("Monster");
 
+      
      }
   }
 }
